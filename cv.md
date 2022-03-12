@@ -1,5 +1,4 @@
-# rsschool-CV
-# Alexey Leshchev 
+# Alexey Leshchev
 ## Contact information
 **Phone:** +1 574-675-19-93
 

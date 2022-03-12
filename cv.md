@@ -29,3 +29,16 @@ let result = sum(1, 2);
 alert( result );
 ```
 ___
+## Experience
+[Page about me](https://tucbernout.github.io/rsschool-cv/cv)
+___
+## Education
+* **University:** Legal education (Unfinished higher education)
+* **Course:**
+    * [HTML5](https://ru.code-basics.com/languages/html)
+    * [CSS](https://ru.code-basics.com/languages/css)
+___
+## Languages
+**English:** Elementary (I am working on improving my English proficiency)
+
+![mountains](img/Screenshot_1.png)

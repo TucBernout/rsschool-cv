@@ -1,1 +1,1 @@
-https://tucbernout.github.io/rsschool-cv/g
+https://tucbernout.github.io/rsschool-cv/cv

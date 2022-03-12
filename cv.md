@@ -16,7 +16,8 @@ Hello. My name is Alexey. My goal is to get basic programming skills. My single-
 ## My skills
 * HTML5
 * CSS3
-* Git
+* Git 
+
 
 ## Code example
 ```
@@ -35,6 +36,7 @@ alert( result );
 * **Course:**
     * [HTML5](https://ru.code-basics.com/languages/html)
     * [CSS](https://ru.code-basics.com/languages/css)
+
 
 ## Languages
 **English:** Elementary (I am working on improving my English proficiency)

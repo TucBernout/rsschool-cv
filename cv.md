@@ -11,12 +11,13 @@
 **Discord:** TucBernout#1289
 
 ## About me
-
 Hello. My name is Alexey. My goal is to get basic programming skills. My single-mindedness will help me in this. There is no experience in real projects. I am motivated to learn. My motivation is based on the desire to gain new knowledge. The desire to master languages such as: JS Python C++
+
 ## My skills
 * HTML5
 * CSS3
 * Git
+
 ## Code example
 ```
 function multiply(a, b) {
@@ -25,13 +26,16 @@ function multiply(a, b) {
 let result = sum(1, 2);
 alert( result );
 ```
+
 ## Experience
 [Page about me](https://tucbernout.github.io/rsschool-cv/cv)
+
 ## Education
 * **University:** Legal education (Unfinished higher education)
 * **Course:**
     * [HTML5](https://ru.code-basics.com/languages/html)
     * [CSS](https://ru.code-basics.com/languages/css)
+
 ## Languages
 **English:** Elementary (I am working on improving my English proficiency)
 

@@ -21,3 +21,12 @@ ___
 * CSS3
 * Git
 ___
+## My skills
+```
+function multiply(a, b) {
+  return a * b
+} ​
+let result = sum(1, 2);
+alert( result );
+```
+___

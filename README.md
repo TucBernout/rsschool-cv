@@ -1,1 +1,1 @@
-# rsschool-cv
+https://tucbernout.github.io/rsschool-cv/g
